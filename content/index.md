@@ -1,6 +1,13 @@
 ---
-title: Welcome to Quartz
+title: Jandre's Notes
 ---
 
-This is a blank Quartz installation.
-See the [documentation](https://quartz.jzhao.xyz) for how to get started.
+## Courses
+
+- [[Y1S1 Courses MOC]]
+- [[Y1S2 Courses MOC]]
+- [[Y2S1 Courses MOC]]
+- [[Y2S2 Courses MOC]]
+- [[Y3S1 Courses MOC]]
+- [[Y3S2 Course MOC]]
+- 
