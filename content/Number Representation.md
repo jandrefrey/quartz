@@ -14,7 +14,7 @@ title: "Number Representation"
 - 2s complement are identical to unsigned binary numbers, but the most significant bit has a weight of $-2^{N-1}$ instead of $2^{N-1}$.
 
 Sizes are declared in C with`stdint.h`:
-![[Pasted images/Pasted image 20230727101802.png]]
+![[Pasted image 20230727101802.png]]
 
 ## Floating point numbers
 $$Value = (-1)^s \times (1.M) \times 2^{E-b}$$
@@ -24,13 +24,13 @@ $$Value = (-1)^s \times (1.M) \times 2^{E-b}$$
 - $b$ = bias
 
 Single precision provides typically 6–9 digits of numerical precision, while double precision gives 15–17.
-![[Pasted images/Pasted image 20230727102219.png]]
+![[Pasted image 20230727102219.png]]
 
 ## ASCII
 
 Used to interpret numbers as characters:
-![[Pasted images/Pasted image 20230727102359.png]]
-![[Pasted images/Pasted image 20230727102411.png|400]]
+![[Pasted image 20230727102359.png]]
+![[Pasted image 20230727102411.png|400]]
 
 
 

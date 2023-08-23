@@ -1,0 +1,11 @@
+---
+title: "Machine Design A314"
+---
+- [[Reliability]]
+- [[Uncertainty]]
+- [[Material Strength]]
+- [[Load, Stress and Deformation]]
+- [[Deflection and Buckling]]
+- [[Static Failure]]
+- [[Fatigue Failure]]
+- 

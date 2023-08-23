@@ -27,4 +27,4 @@ Finally, from the final value theorem:
 $$\begin{aligned}e_{ss}&=\lim_{s\to0}sE(s)\\\\e_{ss}&=\lim_{s\to0}s\big(-Y(s)\big);\quad W(s)=\frac{1}{s^{k+1}}\end{aligned}$$
 Set $k = 0$, $k=1$, $k=2$ and compare with the **Error Constants** step, tamp and parabola.
 ## Error Constants
-![[Pasted images/Pasted image 20230801215210.png]]
+![[Pasted image 20230801215210.png]]

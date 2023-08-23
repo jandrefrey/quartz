@@ -13,7 +13,7 @@ $$\phi = \angle G(s)_{s=j\omega}$$
 
 ## Bode Plot
 Plot of the amplification and phase shift effect in a system output to sinusoidal inputs for a wide range of frequencies. (Note that the frequency is on a **log scale**)
-![[Pasted images/Pasted image 20230809112613.png|300]]
+![[Pasted image 20230809112613.png|300]]
 
 1. Expand transfer function into simpler transfer functions.
 2. Get expression for amplification and phase shift plot of simple transfer functions.

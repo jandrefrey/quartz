@@ -1,7 +1,7 @@
 ---
 title: "Half-Wave Rectifier"
 ---
-![[Pasted images/Pasted image 20230810115330.png]]
+![[Pasted image 20230810115330.png]]
 
 Finding transition point at node 1:
 - $v_s < V_\gamma$
@@ -12,8 +12,8 @@ Finding transition point at node 1:
 	- Diode is on
 	- $v_O = v_s - V_\gamma$
 
-![[Pasted images/Pasted image 20230810115459.png|300]]
-![[Pasted images/Pasted image 20230810122729.png|350]]
+![[Pasted image 20230810115459.png|300]]
+![[Pasted image 20230810122729.png|350]]
 
 
 

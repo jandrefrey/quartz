@@ -10,5 +10,5 @@ Similar characteristics to [[The PN Junction]] diode.
 	- Direct bandgap semiconductors used.
 - The spectral wavelength depends on the material and doping.
 
-![[Pasted images/Pasted image 20230810112301.png]]
+![[Pasted image 20230810112301.png]]
 

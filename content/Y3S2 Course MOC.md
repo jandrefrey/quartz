@@ -6,5 +6,3 @@ title: "Y3S2 Course MOC"
 - [[Data Analytics 344 MOC]]
 - [[Electronics 245 MOC]]
 - [[Computer Systems 245 MOC]]
-
-![[Pasted image 20230815223625.png]]

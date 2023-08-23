@@ -1,8 +1,6 @@
 ---
-title: Jandre's Notes
+title: "index"
 ---
-
-## Courses
 
 - [[Y1S1 Courses MOC]]
 - [[Y1S2 Courses MOC]]
@@ -10,4 +8,3 @@ title: Jandre's Notes
 - [[Y2S2 Courses MOC]]
 - [[Y3S1 Courses MOC]]
 - [[Y3S2 Course MOC]]
-- 
