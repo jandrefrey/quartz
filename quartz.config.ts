@@ -11,6 +11,7 @@ const config: QuartzConfig = {
     },
     baseUrl: "jandrefrey.github.io/quartz",
     ignorePatterns: ["private", "templates"],
+    defaultDateType: "created",
     theme: {
       typography: {
         header: "Schibsted Grotesk",
